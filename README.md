@@ -68,7 +68,7 @@
 
 ​				算法步骤：
 
-​						Step1：使用0.8准确度的baseline+Focalloss将整张图预测出来，因此可以得出所有节点的标签（整体的准确度为0.8，是可信的)。![image-20211108192445645](C:\Users\daimaohui\AppData\Roaming\Typora\typora-user-images\image-20211108192445645.png)
+​						Step1：使用0.8准确度的baseline+Focalloss将整张图预测出来，因此可以得出所有节点的标签（整体的准确度为0.8，是可信的)。![image-20211108192445645](https://github.com/daimaohui/ATEC-TASK2-Rank2/image-20211108185713945.png)
 
  * 左边图中节点为标签为2是没有标签，从左边到右边就是一张图进行预测的过程，但是存在节点被误判的情况。
 
